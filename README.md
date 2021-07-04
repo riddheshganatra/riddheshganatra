@@ -20,6 +20,7 @@ I am a Software Architect/Fullstack software engineer from India.
 <br>
 <br>
 ## Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Promise vs Callback in javascript](https://riddheshganatra.medium.com/promise-vs-callback-in-javascript-172f7baf4f96?source=rss-caab789c09a2------2)
 - [Create AWS IoT Core Things using AWS SDK](https://riddheshganatra.medium.com/create-aws-iot-core-things-using-aws-sdk-e9a7939597f4?source=rss-caab789c09a2------2)
