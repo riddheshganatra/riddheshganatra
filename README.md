@@ -19,3 +19,7 @@ I am a Software Architect/Fullstack software engineer from India.
 <img align="left" alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br>
 <br>
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
