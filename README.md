@@ -22,9 +22,9 @@ I am a Software Architect/Fullstack software engineer from India.
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solana web3 js](https://riddheshganatra.medium.com/solana-web3-js-a9a7101df457?source=rss-caab789c09a2------2)
 - [Promise vs Callback in javascript](https://riddheshganatra.medium.com/promise-vs-callback-in-javascript-172f7baf4f96?source=rss-caab789c09a2------2)
 - [Create AWS IoT Core Things using AWS SDK](https://riddheshganatra.medium.com/create-aws-iot-core-things-using-aws-sdk-e9a7939597f4?source=rss-caab789c09a2------2)
 - [Scalable Cloud Stack for MVP](https://riddheshganatra.medium.com/scalable-cloud-stack-for-mvp-6c0f3b051787?source=rss-caab789c09a2------2)
 - [Tree-data with ag-grid Community](https://riddheshganatra.medium.com/tree-data-with-ag-grid-community-94ba1dfb40eb?source=rss-caab789c09a2------2)
-- [Nodejs optimizations with c++ addons](https://riddheshganatra.medium.com/nodejs-optimizations-with-c-addons-70790ed0c5af?source=rss-caab789c09a2------2)
 <!-- BLOG-POST-LIST:END -->
