@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a Software Architect/Fullstack software engineer from India.
-- 🔭 Working on multiple frontend and backend project using React, Angular, Nodejs, Microservices, AWS, GCP, etc
+- 🔭 Working on multiple frontend and backend project using React, Angular, React Native, Nodejs, Microservices, AWS, GCP, etc
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
